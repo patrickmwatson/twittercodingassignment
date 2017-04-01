@@ -1,5 +1,5 @@
 
-![Alt text](http://icons.iconarchive.com/icons/custom-icon-design/flatastic-9/512/Yin-Yang-True-false-icon.png)
+![Alt text](https://res.cloudinary.com/fillip/image/upload/v1477569315/snip_20161027145403_cyutpg.png)
 # Applicaster Twitter Coding Assignment 
 #### &mdash; By Patrick Watson
 
