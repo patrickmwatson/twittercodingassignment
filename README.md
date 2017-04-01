@@ -1,5 +1,5 @@
-# Twitter Coding Assignment for Applicaster 
-# &mdash; By Patrick Watson
+# Applicaster Twitter Coding Assignment 
+#### &mdash; By Patrick Watson
 
 This is a simple application that has been completed apon request by Applicaster
 
