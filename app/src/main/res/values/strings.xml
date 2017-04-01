@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Twitter Coding Assignment</string>
+    <string name="action_stop_refreshing">Toggle Auto-Refresh</string>
+    <string name="title_activity_login">Twitter Coding Assignment</string>
+</resources>
