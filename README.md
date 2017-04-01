@@ -7,7 +7,7 @@ This is a simple application that has been completed apon request by Applicaster
 
 ## Launch 
 
-In order to execute this android applications simply clone the repository locally, open with Android Studio, and press the 'run' button in the top left corner.
+In order to execute this android applications simply launch the .apk file in the parent directory. Or clone the repository locally, open with Android Studio, and press the 'run' button in the top left corner.
 
 ## Tests
 
